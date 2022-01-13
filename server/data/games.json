@@ -1,0 +1,37 @@
+{
+	"games": [
+		{
+			"name": "Valorant",
+			"year": 2020,
+			"storyline": "Valorant é um jogo eletrônico multijogador gratuito para jogar de tiro em primeira pessoa desenvolvido e publicado pela Riot Games",
+			"price": 100.00,
+			"imageUrl": "https://www.google.com.br/search?q=Valorant&stick=H4sIAAAAAAAAAFWSO2_UQBSF7Q3ZLE4iZZMiIREKShXSrGdmPbZpgkgDEggUoUhUznq8tuPH2GNbfpX8AkTBD6CioKFDFCSiyxZIEJEGCSE6qrQIikDQehbK796Zc8-5M53pjfme0wPA04o8qbUaTnuRE6Uj8f9yw2adwpQW9kic7YU9GSBb1cyw6TqExVVKs5EoXXT7FBUw4VJGYpJYzxsObKYFCigappSRSi_8f0eFdlmNxfzcDnXWNF1LsYmScXEX1X0Dyt74sJ5jP3bGANXEgXgMLCV9bDTXGFJqEhqkYVt1XNmpuKxdGczDpcfPw9BAsSE3bJWmXyUM8YyUAlkHJr8fJJbNFD7PxA5LlIzyvoegpSU8FlEBUXSaT9aLMK54yJoSHztNSMsill2PwUWMqNyHWfSzEAT6SJy7YJfILGYKbGSBCg1T5SbCMvNtn79xkspMl31u2sN9RtxK4-z5CAMLN2rQMROVR_aICcMMcXYNOUWY4LEVhlXFh2DyyjlmgGZ44twjOMTZ5BeU_czJFL4hSGNmUG6OKGmNUc3NyCXW_WpiRq8UUE7MOdD0dJvv26k1gLDMpwc-sBOqxN_EY3F24fuPL0urh-LTl8en4mtRunxvGJrDJL1vL16XpJ0oCIYkO4jo4trqFWm5R3ihlx9Yw8hwBuEw3Sih8ebjs_ftR91bpSBsre3eXIXdB3Tn89VXZ9tbi9LMnfRuRAZBd2r_fJ1--FNbkjoPB2VEo7Dq7s2fb8-cnG1vrHSl27_W9z8tHa1MXRM2BXByOvO1bfw83BJ2O3-ThwU4EluP3754177UEReEG63NVt3qCHPPpzt7gyBKBjR70hZ_AyI9kM_yAwAA&sxsrf=AOaemvIIzIVHekDCrn_oml2ck-ToSvnKwQ:1642101467629&tbm=isch&source=iu&ictx=1&vet=1&fir=hhZUfpnNvbP3FM%252C6WJ0jZ5TLXIvzM%252C%252Fg%252F11j8wvrz8z%253BNs2Yi1tROzfPIM%252CJjxgaZI_xkkTIM%252C_%253Bck81IvPdAqi3GM%252CDRERVfn7SC2skM%252C_%253B6cGmM2cdbLNFXM%252CE7u-m78zHsEN0M%252C_%253Bcg4c_KbhF1DeQM%252COkxSDqAcx6kO9M%252C_%253B58tYhOnJ5zewsM%252CPRX5z8QCC0IKmM%252C_&usg=AI4_-kQRn5bugBvd4_K554UE6OQZ-D6a1A&sa=X&ved=2ahUKEwj4s6TVuK_1AhUiHbkGHV4LBk0Q_B16BAgSEAE#imgrc=hhZUfpnNvbP3FM",
+			"age": "L",
+			"ageInfo": "Livre para todos os públicos",
+			"studio": "Riot Games"
+		},
+		{
+			"name": "God of War",
+			"year": 2018,
+			"storyline": "God of War é um jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment. Foi lançado em 20 de abril de 2018 para PlayStation 4, com uma versão para Microsoft Windows prevista para ser lançada em 14 de janeiro de 2022.",
+			"price": 90.50,
+			"imageUrl":"https://upload.wikimedia.org/wikipedia/pt/8/82/God_of_War_2018_capa.png",
+			"age": "L",
+			"ageInfo": "Livre para todos os públicos",
+			"studio": "Sony"
+		},
+		{
+			"name": "League of Legends",
+			"year": 2009,
+			"storyline": "League of Legends é um jogo eletrônico multiplayer online battle arena desenvolvido e publicado pela Riot Games. Foi lançado em outubro de 2009 para Microsoft Windows e em março de 2013 para macOS.",
+			"price": 0,
+			"imageUrl": "https://lh3.googleusercontent.com/WebglHOYlW-2P7ADP9oUSSrgy12PHyAE6GP_jmJkQOZZ1XH7Pa_7216EK2qS7iJFvncqOaDjg40BrYdzPbB9qNwn",
+			"age": "9",
+			"ageInfo": "9 e 15",
+			"studio": "Riot Games"
+			
+		
+        }
+    
+    ] 
+}    

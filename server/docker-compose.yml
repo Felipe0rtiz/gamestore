@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  database:
+    image: postgres
+    ports:
+      - '5432:5432'
+    container_name: gamestore
+    restart: always
+    volumes:
+      - gamestore-disk:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: kethluna
+      POSTGRES_DB: gamestore
+
+volumes:
+  gamestore-disk:
