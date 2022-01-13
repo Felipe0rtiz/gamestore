@@ -1,4 +1,5 @@
-# Loja online
+# GameStore
+Loja Online
 
 ## 🖥 Preview
 
